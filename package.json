@@ -1,0 +1,24 @@
+{
+  "name": "jquery-draggable-background",
+  "version": "1.2.3",
+  "description": "A jQuery plugin for draggable background images.",
+  "main": "draggable_background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagle/jquery-draggable-background.git"
+  },
+  "keywords": [
+    "jQuery",
+    "backgroundImage",
+    "drag"
+  ],
+  "author": "Kenneth Chung <https://github.com/kentor>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nagle/jquery-draggable-background/issues"
+  },
+  "homepage": "https://github.com/Nagle/jquery-draggable-background#readme"
+}
